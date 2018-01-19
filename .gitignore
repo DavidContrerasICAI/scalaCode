@@ -5,6 +5,7 @@
 .cache
 .history
 .lib/
+.settings/
 .metadata/
 metastore_db/
 dist/*
