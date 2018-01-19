@@ -5,6 +5,8 @@
 .cache
 .history
 .lib/
+.metadata/
+metastore_db/
 dist/*
 target/
 lib_managed/
